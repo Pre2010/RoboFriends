@@ -1,3 +1,6 @@
+# RoboFriends
+A simple React app that has a search bar and cards to display different robots with their own info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
